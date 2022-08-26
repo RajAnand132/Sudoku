@@ -8,3 +8,4 @@ But if you want to play this game which is very intresting and thoughtfull, So w
 - Here the sample video of this game.
 https://user-images.githubusercontent.com/83199724/186987653-df8a3ac7-4f95-4121-a083-f9a5a4f15859.mp4
 
+https://user-images.githubusercontent.com/83199724/186988222-58c2cfb3-5410-4af4-b3e6-d87fa9f75355.mp4
