@@ -1,11 +1,7 @@
 # Sudoku-Game
-As this code is written in java, so it is difficult to show live demo or playing this game here. 
-But if you want to play this game which is very intresting and thoughtfull, So what you can do is follow these steps  and play this game: -
-- 1. Clone or download this code.
-- 2. Open in your   JAVA IDE or JAVA Editor (VS Code, IntelliJ,Netbeans,etc).
-- 3. Save the code and run it.
-- You will be asking to enter your name as password for getting the corect answers.
-- Here the sample video of this game.
-https://user-images.githubusercontent.com/83199724/186987653-df8a3ac7-4f95-4121-a083-f9a5a4f15859.mp4
+Terminalogy
+A Sudoku (i.e. the puzzle) is a partially completed grid. A grid has 9 rows, 9 columns and 9 boxes (or blocks or regions), each having 9 cells (or squares), for a total of 81 cells. The initially defined values are clues or givens. An ordinary Sudoku (i.e. a proper Sudoku) has one solution. Rows, columns and regions can be collectively referred to as groups, of which the grid has 27. The One Rule can be compactly stated as: "Each digit appears once in each group."
+
+Mathematically, Sudoku is a NP-complete problem. Developed using back tracking concept of data structures.
 
 https://user-images.githubusercontent.com/83199724/186988222-58c2cfb3-5410-4af4-b3e6-d87fa9f75355.mp4
